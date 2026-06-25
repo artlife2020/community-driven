@@ -42,5 +42,5 @@ print("Signed Hash:", signed_tx.hash.hex())
 # )
 # print(tx_hash.hex())
 
-# Thank you
+# wall
 ```
